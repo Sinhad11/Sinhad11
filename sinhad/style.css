@@ -1,0 +1,28 @@
+h1{
+background-color:rgb(18, 153, 237); text-align: center;
+}
+h2{
+background-color:rgb(241, 244, 247);text-align: center;
+
+}
+h3{
+    background-color:rgb(18, 153, 237); text-align: center;
+}
+h4{
+    background-color: rgb(18, 153, 237);;text-align: center;
+}
+h5{
+    background-color: rgb(241, 244, 247);color: rgb(0, 0, 0);text-align: center;
+}
+h6{
+    background-color:rgb(18, 153, 237); ;text-align: center;
+}
+p{
+background-color: rgb(243, 13, 59);font-size: larger;
+}
+body{
+    background-color: rgb(3, 3, 3);font-size: xx-large; 
+
+
+
+}
